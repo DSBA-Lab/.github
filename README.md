@@ -1,2 +1,2 @@
-# .github
-Data Science and Business Analytics (DSBA) Lab
+# Data Science and Business Analytics (DSBA) Lab
+
