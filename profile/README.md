@@ -1,5 +1,18 @@
 # Data Science and Business Analytics (DSBA) Lab
 
+**Advisor**: Pilsung Kang
+
+- DSBA: http://dsba.korea.ac.kr/
+
+# Research
+
 <p align='center'>
-  <img width='1200' src='https://user-images.githubusercontent.com/37654013/189268651-bce5d927-e92d-4785-b277-b9af59a1feb6.jpg'> 
+  <img width='1200' src='https://user-images.githubusercontent.com/37654013/189514372-d96b5280-4cde-4301-aff3-f30cc47e7805.png'> 
+</p>
+
+
+# Application
+
+<p align='center'>
+  <img width='1200' src='https://user-images.githubusercontent.com/37654013/189514402-fe8b7ac4-72c4-44c6-bb3f-50e58c652f92.png'> 
 </p>
