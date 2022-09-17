@@ -5,7 +5,7 @@ Professor, Ph.D.
 *School of Industrial & Management Engineering*   
 *Korea University*
 
-- DSBA: http://dsba.korea.ac.kr/
+- Lab Webpage: http://dsba.korea.ac.kr/
 
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPq01cgCcEwhXl7BvcwIQyg?style=social)
 
