@@ -2,10 +2,10 @@
 
 **Pilsung Kang**   
 Professor, Ph.D.   
-*School of Industrial & Management Engineering*   
-*Korea University*
+*Department of Industrial Engineering*   
+*Seoul National University*
 
-- Lab Webpage: http://dsba.korea.ac.kr/
+- Lab Webpage: http://dsba.snu.ac.kr/
 
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPq01cgCcEwhXl7BvcwIQyg?style=social)
 
